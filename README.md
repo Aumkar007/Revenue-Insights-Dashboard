@@ -47,4 +47,4 @@ To build a revenue analytics solution that:
 • **New Analysts and Learners** build practical skills in end-to-end dashboard development—from requirement gathering to modeling and visual storytelling.
 • The project bridges the gap between data and decision-making, enabling better revenue optimization and strategic alignment in the hospitality sector.
 
-https://github.com/Aumkar007/Revenue-Insights-Dashboard/blob/main/Hospitality%20Domain%20Dasboard.PNG
+[Dashboard Preview](https://github.com/Aumkar007/Revenue-Insights-Dashboard/blob/main/Hospitality%20Domain%20Dasboard.PNG)
