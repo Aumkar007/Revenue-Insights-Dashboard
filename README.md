@@ -46,6 +46,3 @@ To build a revenue analytics solution that:
 • **Revenue Analysts** gain insights into pricing strategies, room type performance, and booking channel effectiveness.
 • **New Analysts and Learners** build practical skills in end-to-end dashboard development—from requirement gathering to modeling and visual storytelling.
 • The project bridges the gap between data and decision-making, enabling better revenue optimization and strategic alignment in the hospitality sector.
-
-
-Let me know if you’d like this in a downloadable format (Word/PDF) or customized for your portfolio or resume.
